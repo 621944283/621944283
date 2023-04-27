@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @621944283
 - 👀 I’m interested in python language and Fastapi framework
-- 🌱 I’m currently learning FASTAPI Framework
+- 🌱 I’m currently work by FASTAPI Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
